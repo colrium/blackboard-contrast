@@ -20,10 +20,9 @@ another and from normal text.
 
 ## Also included
 
-- Full workbench theming: sidebar, tabs, status bar, panels, menus, inputs, buttons
+- Editor only theming: sidebar, tabs, status bar, panels, menus, and terminal keep the default VS Code colors
 - Bracket pair colorization and error, warning, info colors
-- Git decorations, diff editor, and merge conflict colors
-- Terminal ANSI palette
+- Diff editor and merge conflict colors
 - Semantic token colors for TypeScript, JavaScript, and others
 
 ## Install
