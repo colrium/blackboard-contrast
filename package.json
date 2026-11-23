@@ -1,0 +1,23 @@
+{
+  "name": "blackboard-contrast",
+  "displayName": "Blackboard Contrast",
+  "description": "Blackboard-based dark theme with clearly distinct selection, highlight, and search colors.",
+  "version": "1.0.0",
+  "publisher": "YOUR_PUBLISHER_ID",
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "engines": { "vscode": "^1.80.0" },
+  "categories": ["Themes"],
+  "keywords": ["theme", "dark", "blackboard", "high contrast", "accessibility"],
+  "galleryBanner": { "color": "#0C1021", "theme": "dark" },
+  "repository": { "type": "git", "url": "https://github.com/colrium/blackboard-contrast" },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blackboard Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blackboard-contrast-color-theme.json"
+      }
+    ]
+  }
+}
